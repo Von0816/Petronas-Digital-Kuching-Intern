@@ -1,6 +1,6 @@
 conflick test
 s<<<<<<< HEAD
-aadadwdasawdzawdasChecking update by Bram.
+Checking update by Bram now Farhan hello awak.
 =======
 Checking update by Bram.
 Sem eh.
