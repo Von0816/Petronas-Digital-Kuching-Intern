@@ -1,9 +1,1 @@
-conflick test
-s<<<<<<< HEAD
-Checking update by Bram now Farhan hello awak.
-=======
-Checking update by Bram.
-Sem eh.
->>>>>>> 913c63a23c53f1ef2a6bc60fc78c46b1f556cdc7
-
-Asdf
+conflict test
