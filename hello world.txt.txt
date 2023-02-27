@@ -3,3 +3,4 @@ running test
 run test 1
 run test 2 - bram
 run test 3
+run test 4
