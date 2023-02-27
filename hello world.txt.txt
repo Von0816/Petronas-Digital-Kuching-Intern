@@ -1,2 +1,6 @@
 conflict test
+<<<<<<< HEAD
 running test
+=======
+run test 1
+>>>>>>> 73207d22529e97a9845fe71629b75146ea90ebb5
