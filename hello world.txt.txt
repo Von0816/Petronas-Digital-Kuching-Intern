@@ -7,3 +7,4 @@ run test 4
 testing
 run conflict test
 conflic test 3
+conflic test 4
